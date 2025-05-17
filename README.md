@@ -5,6 +5,7 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Contribuições](https://img.shields.io/badge/contribuições-bem%20vindas-brightgreen)
 
+
 ## 🗺️ Sumário
 
 - [Objetivo](#objetivo)
@@ -23,13 +24,16 @@
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
+
 ## 🎯 Objetivo
 
 Criar um guia de estudo contínuo com os principais tópicos que um dev backend precisa conhecer, desde os fundamentos até conteúdos mais avançados.
 
+
 ## 🛤️ Roadmap
 
-Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medida que estudo e encontro bons materiais!
+> Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medida que estudo e encontro bons materiais!
+
 
 ## 📘 Módulo 1: Fundamentos da Programação
 
@@ -44,6 +48,7 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
   
 - ✅ Git e GitHub  
   [Artigo - Alura](https://www.alura.com.br/artigos/o-que-e-git-github)
+
 
 ## 🌐 Módulo 2: Fundamentos da Web
 
@@ -62,6 +67,7 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
 - ✅ JSON e comunicação com frontend  
   [O que é JSON?](https://www.glideapps.com/blog/what-is-json)
 
+
 ## 🟢 Módulo 3: Primeiros Passos com Node.js
 
 - ✅ Introdução ao Node.js  
@@ -75,6 +81,7 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
 
 - ✅ Organização de projeto  
   [Boas práticas - LogRocket](https://blog.logrocket.com/node-js-project-architecture-best-practices/)
+
 
 ## 🔧 Módulo 4: Express.js e Construção de APIs
 
@@ -96,6 +103,7 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
 - ✅ Tratamento de erros  
   [Guia oficial](https://expressjs.com/en/guide/error-handling.html)
 
+
 ## 🗃️ Módulo 5: Banco de Dados
 
 [Sem Links]
@@ -105,6 +113,7 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
 - ✅ MongoDB: coleções, documentos, queries
 - ✅ ORMs / ODMs: Prisma, Sequelize, Mongoose
 
+
 ## 🔐 Módulo 6: Autenticação e Autorização
 
 [Sem Links]
@@ -113,6 +122,7 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
 - ✅ Sessões e Cookies
 - ✅ Hash de senhas com Bcrypt
 - ✅ Controle de acesso por perfil
+
 
 ## 🏗️ Módulo 7: Avançando com Backend
 
@@ -124,6 +134,7 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
 - ✅ Testes com Jest e Supertest
 - ✅ Logs e exceções
 
+
 ## 🔌 Módulo 8: Integrações e Recursos Avançados
 
 [Sem Links]
@@ -132,6 +143,7 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
 - ✅ Integrações externas (pagamento, APIs)
 - ✅ WebSockets (tempo real)
 - ✅ Filas e workers (Bull + Redis)
+
 
 ## 🚀 Módulo 9: Deploy e Escalabilidade
 
@@ -143,6 +155,7 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
 - ✅ Deploy: Heroku, Railway, Render, VPS, AWS
 - ✅ Cache, balanceamento, rate limit
 
+
 ## 🎓 Módulo 10: Projeto Final - Backend Profissional
 
 [Sem Links]
@@ -153,10 +166,12 @@ Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medid
 - ✅ Documentação (Swagger, Postman)
 - ✅ CI/CD e deploy final
 
+
 ## 🧰 Tecnologias
 
 Este projeto está sendo desenvolvido usando:
 - Markdown para estruturação
+
 
 ## 🤝 Como Contribuir
 
@@ -165,6 +180,7 @@ Este projeto está sendo desenvolvido usando:
 3. Commit suas alterações: `git commit -m 'feat: adicionei X no roadmap'`
 4. Faça push: `git push origin minha-feature`
 5. Abra um Pull Request
+
 
 ## 📄 Licença
 
