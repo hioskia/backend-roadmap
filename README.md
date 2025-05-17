@@ -1,51 +1,37 @@
-# 🚀 Roadmap Backend
+# 🧭 Roadmap Backend
 
-> Um guia visual e prático com etapas para se tornar um desenvolvedor backend completo.
+> Um guia completo para quem quer dominar o desenvolvimento backend com Node.js e tecnologias modernas.
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![Contribuições](https://img.shields.io/badge/contribuições-bem%20vindas-brightgreen)
+![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/roadmap-backend)
+![GitHub contributors](https://img.shields.io/github/contributors/seu-usuario/roadmap-backend)
+![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/roadmap-backend)
 
-## 🗺️ Sumário
+---
 
-- [Objetivo](#objetivo)
-- [Roadmap](#roadmap)
-- [Módulo 1: Fundamentos da Programação](#módulo-1-fundamentos-da-programação)
-- [Módulo 2: Fundamentos da Web](#módulo-2-fundamentos-da-web)
-- [Módulo 3: Node.js](#módulo-3-primeiros-passos-com-nodejs)
-- [Módulo 4: Express.js](#módulo-4-expressjs-e-construção-de-apis)
-- [Módulo 5: Banco de Dados](#módulo-5-banco-de-dados)
-- [Módulo 6: Autenticação e Autorização](#módulo-6-autenticação-e-autorização)
-- [Módulo 7: Arquitetura e Boas Práticas](#módulo-7-avançando-com-backend)
-- [Módulo 8: Integrações e Recursos Avançados](#módulo-8-integrações-e-recursos-avançados)
-- [Módulo 9: Deploy e Escalabilidade](#módulo-9-deploy-e-escalabilidade)
-- [Módulo 10: Projeto Final](#módulo-10-projeto-final---backend-profissional)
-- [Tecnologias](#tecnologias)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
+## 🗂️ Sumário
 
-## 🎯 Objetivo
+1. [Módulo 1: Fundamentos da Programação](#módulo-1-fundamentos-da-programação)
+2. [Módulo 2: Fundamentos da Web](#módulo-2-fundamentos-da-web)
+3. [Módulo 3: Node.js](#módulo-3-primeiros-passos-com-nodejs)
+4. [Módulo 4: Express.js](#módulo-4-expressjs-e-construção-de-apis)
+5. [Módulo 5: Banco de Dados](#módulo-5-banco-de-dados)
+6. [Módulo 6: Autenticação e Autorização](#módulo-6-autenticação-e-autorização)
+7. [Módulo 7: Arquitetura e Boas Práticas](#módulo-7-avançando-com-backend)
+8. [Módulo 8: Integrações e Recursos Avançados](#módulo-8-integrações-e-recursos-avançados)
+9. [Módulo 9: Deploy e Escalabilidade](#módulo-9-deploy-e-escalabilidade)
+10. [Módulo 10: Projeto Final](#módulo-10-projeto-final---backend-profissional)
 
-Criar um guia de estudo contínuo com os principais tópicos que um dev backend precisa conhecer, desde os fundamentos até conteúdos mais avançados.
+---
 
-## 🛤️ Roadmap
-
-> Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medida que estudo e encontro bons materiais!
-
-## 🎓 Módulo 1: Fundamentos da Programação
+## 📘 Módulo 1: Fundamentos da Programação
 
 - ✅ Lógica de programação (variáveis, condições, loops, funções)
-  [Artigo - Rocketseat](https://www.rocketseat.com.br/blog/artigos/post/logica-de-programacao-para-iniciantes-em-programacao)
-  
 - ✅ Estruturas de dados (arrays, objetos, listas, mapas)
-  [Estrutura de dados em javascript](https://dev.to/trinity_/estruturas-de-dados-em-javascript-com-exemplos-de-codigo-4an0)
-  
 - ✅ Conceitos de algoritmos
-  [O que é um algoritmo](https://www.datacamp.com/pt/blog/what-is-an-algorithm)
-  
 - ✅ Git e GitHub  
   [Artigo - Alura](https://www.alura.com.br/artigos/o-que-e-git-github)
 
-## 🎓 Módulo 2: Fundamentos da Web
+## 🌐 Módulo 2: Fundamentos da Web
 
 - ✅ HTTP: métodos, status codes, headers  
   [Métodos HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Methods)  
@@ -62,7 +48,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ JSON e comunicação com frontend  
   [O que é JSON?](https://www.glideapps.com/blog/what-is-json)
 
-## 🎓 Módulo 3: Primeiros Passos com Node.js
+## 🟢 Módulo 3: Primeiros Passos com Node.js
 
 - ✅ Introdução ao Node.js  
   [Artigo - Alura](https://www.alura.com.br/artigos/node-js)
@@ -76,7 +62,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Organização de projeto  
   [Boas práticas - LogRocket](https://blog.logrocket.com/node-js-project-architecture-best-practices/)
 
-## 🎓 Módulo 4: Express.js e Construção de APIs
+## 🔧 Módulo 4: Express.js e Construção de APIs
 
 - ✅ Criar API com Express  
   [Guia - Postman](https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/)
@@ -96,27 +82,21 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Tratamento de erros  
   [Guia oficial](https://expressjs.com/en/guide/error-handling.html)
 
-## 🎓 Módulo 5: Banco de Dados
-
-[Sem Links]
+## 🗃️ Módulo 5: Banco de Dados
 
 - ✅ SQL vs NoSQL
 - ✅ PostgreSQL / MySQL: modelagem, joins, migrations
 - ✅ MongoDB: coleções, documentos, queries
 - ✅ ORMs / ODMs: Prisma, Sequelize, Mongoose
 
-## 🎓 Módulo 6: Autenticação e Autorização
-
-[Sem Links]
+## 🔐 Módulo 6: Autenticação e Autorização
 
 - ✅ JWT
 - ✅ Sessões e Cookies
 - ✅ Hash de senhas com Bcrypt
 - ✅ Controle de acesso por perfil
 
-## 🎓 Módulo 7: Avançando com Backend
-
-[Sem Links]
+## 🏗️ Módulo 7: Avançando com Backend
 
 - ✅ Arquitetura MVC
 - ✅ Services e Repositories
@@ -124,18 +104,14 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Testes com Jest e Supertest
 - ✅ Logs e exceções
 
-## 🎓 Módulo 8: Integrações e Recursos Avançados
-
-[Sem Links]
+## 🔌 Módulo 8: Integrações e Recursos Avançados
 
 - ✅ Envio de e-mails (SMTP, SendGrid)
 - ✅ Integrações externas (pagamento, APIs)
 - ✅ WebSockets (tempo real)
 - ✅ Filas e workers (Bull + Redis)
 
-## 🎓 Módulo 9: Deploy e Escalabilidade
-
-[Sem Links]
+## 🚀 Módulo 9: Deploy e Escalabilidade
 
 - ✅ Ambientes: dev e prod
 - ✅ Variáveis de ambiente (.env)
@@ -145,27 +121,20 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 
 ## 🎓 Módulo 10: Projeto Final - Backend Profissional
 
-[Sem Links]
-
 - ✅ Aplicação realista (e-commerce, sistema de usuários, etc.)
 - ✅ Planejamento e arquitetura
 - ✅ Construção com testes
 - ✅ Documentação (Swagger, Postman)
 - ✅ CI/CD e deploy final
 
-## 🧰 Tecnologias
+---
 
-Este projeto está sendo desenvolvido usando:
-- Markdown para estruturação
+## 🤝 Contribuições
 
-## 🤝 Como Contribuir
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou pull request.
 
-1. Faça um fork do projeto
-2. Crie uma branch com a sua feature ou correção: `git checkout -b minha-feature`
-3. Commit suas alterações: `git commit -m 'feat: adicionei X no roadmap'`
-4. Faça push: `git push origin minha-feature`
-5. Abra um Pull Request
+---
 
-## 📄 Licença
+## 📜 Licença
 
-Este projeto está licenciado sob a [MIT License](https://mit-license.org/).
+MIT © [Seu Nome](https://github.com/seu-usuario)
