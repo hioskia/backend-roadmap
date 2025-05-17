@@ -2,9 +2,9 @@
 
 > Este repositório é um **guia completo e progressivo** para quem deseja aprender **desenvolvimento backend com Node.js**, partindo dos fundamentos até práticas avançadas de produção. Ideal para iniciantes e para quem busca estruturar seus estudos com uma trilha moderna e prática.
 
-![Repo size](https://img.shields.io/github/repo-size/your-username/roadmap-backend)
-![Contributors](https://img.shields.io/github/contributors/your-username/roadmap-backend)
-![Last commit](https://img.shields.io/github/last-commit/your-username/roadmap-backend)
+![Repo size](https://img.shields.io/github/repo-size/hioskia/backend-roadmap)
+![Contributors](https://img.shields.io/github/contributors/hioskia/backend-roadmap)
+![Last commit](https://img.shields.io/github/last-commit/hioskia/backend-roadmap)
 
 ---
 
