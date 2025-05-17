@@ -1,10 +1,38 @@
 # 🧭 Roadmap Backend
 
-> Um guia completo para quem quer dominar o desenvolvimento backend com Node.js e tecnologias modernas.
+> Este repositório é um **guia completo e progressivo** para quem deseja aprender **desenvolvimento backend com Node.js**, partindo dos fundamentos até práticas avançadas de produção. Ideal para iniciantes e para quem busca estruturar seus estudos com uma trilha moderna e prática.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/roadmap-backend)
-![GitHub contributors](https://img.shields.io/github/contributors/seu-usuario/roadmap-backend)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/roadmap-backend)
+![Repo size](https://img.shields.io/github/repo-size/your-username/roadmap-backend)
+![Contributors](https://img.shields.io/github/contributors/your-username/roadmap-backend)
+![Last commit](https://img.shields.io/github/last-commit/your-username/roadmap-backend)
+
+---
+
+## ▶️ Como usar este roadmap
+
+1. Siga os módulos na ordem sugerida.
+2. Leia os materiais e pratique com projetos próprios.
+3. Marque como concluído cada item (✅) ou use sua própria cópia para acompanhar seu progresso.
+4. Contribua com sugestões e melhorias!
+
+---
+
+## 🗺️ Visão Geral da Jornada
+
+```mermaid
+graph TD;
+  Fundamentos["Fundamentos de Programação"]
+  Web["Fundamentos da Web"]
+  Node["Node.js"]
+  Express["Express.js"]
+  BD["Banco de Dados"]
+  Auth["Autenticação e Autorização"]
+  Arquitetura["Arquitetura e Boas Práticas"]
+  Avancado["Integrações e Recursos Avançados"]
+  Deploy["Deploy e Escalabilidade"]
+  Projeto["Projeto Final"]
+
+  Fundamentos-->Web-->Node-->Express-->BD-->Auth-->Arquitetura-->Avancado-->Deploy-->Projeto
 
 ---
 
