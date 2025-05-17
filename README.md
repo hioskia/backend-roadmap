@@ -32,7 +32,8 @@ graph TD;
   Deploy["Deploy e Escalabilidade"]
   Projeto["Projeto Final"]
 
-  Fundamentos-->Web-->Node-->Express-->BD-->Auth-->Arquitetura-->Avancado-->Deploy-->Projeto```
+  Fundamentos-->Web-->Node-->Express-->BD-->Auth-->Arquitetura-->Avancado-->Deploy-->Projeto
+```
 
 ---
 
