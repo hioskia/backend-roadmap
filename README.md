@@ -5,7 +5,6 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Contribuições](https://img.shields.io/badge/contribuições-bem%20vindas-brightgreen)
 
-
 ## 🗺️ Sumário
 
 - [Objetivo](#objetivo)
@@ -24,18 +23,15 @@
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
-
 ## 🎯 Objetivo
 
 Criar um guia de estudo contínuo com os principais tópicos que um dev backend precisa conhecer, desde os fundamentos até conteúdos mais avançados.
-
 
 ## 🛤️ Roadmap
 
 > Ainda estou procurando bons links para alguns tópicos. Vou atualizando à medida que estudo e encontro bons materiais!
 
-
-## 📘 Módulo 1: Fundamentos da Programação
+## 🎓 Módulo 1: Fundamentos da Programação
 
 - ✅ Lógica de programação (variáveis, condições, loops, funções)
   [Artigo - Rocketseat](https://www.rocketseat.com.br/blog/artigos/post/logica-de-programacao-para-iniciantes-em-programacao)
@@ -49,8 +45,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Git e GitHub  
   [Artigo - Alura](https://www.alura.com.br/artigos/o-que-e-git-github)
 
-
-## 🌐 Módulo 2: Fundamentos da Web
+## 🎓 Módulo 2: Fundamentos da Web
 
 - ✅ HTTP: métodos, status codes, headers  
   [Métodos HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Reference/Methods)  
@@ -67,8 +62,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ JSON e comunicação com frontend  
   [O que é JSON?](https://www.glideapps.com/blog/what-is-json)
 
-
-## 🟢 Módulo 3: Primeiros Passos com Node.js
+## 🎓 Módulo 3: Primeiros Passos com Node.js
 
 - ✅ Introdução ao Node.js  
   [Artigo - Alura](https://www.alura.com.br/artigos/node-js)
@@ -82,8 +76,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Organização de projeto  
   [Boas práticas - LogRocket](https://blog.logrocket.com/node-js-project-architecture-best-practices/)
 
-
-## 🔧 Módulo 4: Express.js e Construção de APIs
+## 🎓 Módulo 4: Express.js e Construção de APIs
 
 - ✅ Criar API com Express  
   [Guia - Postman](https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/)
@@ -103,8 +96,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Tratamento de erros  
   [Guia oficial](https://expressjs.com/en/guide/error-handling.html)
 
-
-## 🗃️ Módulo 5: Banco de Dados
+## 🎓 Módulo 5: Banco de Dados
 
 [Sem Links]
 
@@ -113,8 +105,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ MongoDB: coleções, documentos, queries
 - ✅ ORMs / ODMs: Prisma, Sequelize, Mongoose
 
-
-## 🔐 Módulo 6: Autenticação e Autorização
+## 🎓 Módulo 6: Autenticação e Autorização
 
 [Sem Links]
 
@@ -123,8 +114,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Hash de senhas com Bcrypt
 - ✅ Controle de acesso por perfil
 
-
-## 🏗️ Módulo 7: Avançando com Backend
+## 🎓 Módulo 7: Avançando com Backend
 
 [Sem Links]
 
@@ -134,8 +124,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Testes com Jest e Supertest
 - ✅ Logs e exceções
 
-
-## 🔌 Módulo 8: Integrações e Recursos Avançados
+## 🎓 Módulo 8: Integrações e Recursos Avançados
 
 [Sem Links]
 
@@ -144,8 +133,7 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ WebSockets (tempo real)
 - ✅ Filas e workers (Bull + Redis)
 
-
-## 🚀 Módulo 9: Deploy e Escalabilidade
+## 🎓 Módulo 9: Deploy e Escalabilidade
 
 [Sem Links]
 
@@ -154,7 +142,6 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Docker e docker-compose
 - ✅ Deploy: Heroku, Railway, Render, VPS, AWS
 - ✅ Cache, balanceamento, rate limit
-
 
 ## 🎓 Módulo 10: Projeto Final - Backend Profissional
 
@@ -166,12 +153,10 @@ Criar um guia de estudo contínuo com os principais tópicos que um dev backend 
 - ✅ Documentação (Swagger, Postman)
 - ✅ CI/CD e deploy final
 
-
 ## 🧰 Tecnologias
 
 Este projeto está sendo desenvolvido usando:
 - Markdown para estruturação
-
 
 ## 🤝 Como Contribuir
 
@@ -180,7 +165,6 @@ Este projeto está sendo desenvolvido usando:
 3. Commit suas alterações: `git commit -m 'feat: adicionei X no roadmap'`
 4. Faça push: `git push origin minha-feature`
 5. Abra um Pull Request
-
 
 ## 📄 Licença
 
